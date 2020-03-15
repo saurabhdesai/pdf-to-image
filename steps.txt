@@ -1,1 +1,2 @@
 Before using this converter fisrt create the folder name "cimage".
+IMAGICK library should be installed in your XAMPP.
